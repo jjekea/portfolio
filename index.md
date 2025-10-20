@@ -3,7 +3,7 @@ layout: default
 title: Jordan E. Kearschner - Portfolio
 ---
 
-![Featured Image](/assets/star field sse.JPG)
+![star field sse](/assets/star field sse.JPG)
 
 # Jordan E. Kearschner
 ## Ph.D. Student, Texts & Technology, University of Central Florida
