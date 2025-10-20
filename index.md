@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jordan E. Kearschner - Portfolio
+title: Jordan E. Kearschner
 ---
 
 ![star field sse](/assets/star field sse.JPG)
